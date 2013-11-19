@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina4.7.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="doneButton.iPhone/DoneButtonViewController.cs">
+    <Files>
+      <File FileName="doneButton.iPhone/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="doneButton.iPhone/Main.cs" Line="1" Column="1" />
+      <File FileName="doneButton.iPhone/DoneButtonViewController.cs" Line="79" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../Dropbox/Projects/etcdMobile/etcdMobile.iPhone/Keys/KeyList.cs" line="117" offsetX="794" offsetY="1740" expression="_source" liveUpdate="False" />
+    <Watch file="../../Dropbox/Projects/etcdMobile/etcdMobile.iPhone/Keys/KeyAdd.cs" line="133" offsetX="339" offsetY="1980" expression="ex.Response.StatusCode" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
